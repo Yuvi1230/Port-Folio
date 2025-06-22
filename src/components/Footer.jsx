@@ -14,6 +14,9 @@ export const Footer = () => {
       >
         <ArrowUp size={20} />
       </a>
+      <div class="justify-end">
+        inspired from pedro.
+      </div>
     </footer>
   );
 };
